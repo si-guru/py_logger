@@ -1,0 +1,7 @@
+py_logger:
+    -   Created log_constants for constants used for logging
+    -   Created log_filters for custom filters for logger
+    -   Created log_function for all logger based Functions
+    -   Created IPC for InterProcessCommunication class
+    -   Added README.md
+    -   modified gitignore for 'gitFile.txt'
